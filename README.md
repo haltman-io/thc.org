@@ -469,6 +469,10 @@ if you appears here and want it removed, just email [root@haltman.io](mailto:roo
 
 `phreaks-talk-stage-001.jpg`
 
+<img src="github-assets/hackerschoice/people-events/conferences/thc-hitb-2012-bsdaemon-001.jpg" alt="thc hitb 2012 bsdaemon 001" width="480">
+
+`thc-hitb-2012-bsdaemon-001.jpg`
+
 ##### Event Photos
 
 <img src="github-assets/hackerschoice/people-events/event-photos/adm-thc-teso-greeting-001.jpg" alt="adm thc teso greeting 001" width="480">
