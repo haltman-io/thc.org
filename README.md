@@ -523,6 +523,10 @@ if you appears here and want it removed, just email [root@haltman.io](mailto:roo
 
 `thc-10th-birthday-001.jpg`
 
+<img src="github-assets/hackerschoice/people-events/event-photos/thc-20th-anniversary-001.jpg" alt="thc 20th anniversary 001" width="480">
+
+`thc-20th-anniversary-001.jpg`
+
 ##### Legacy Heroes
 
 <img src="github-assets/hackerschoice/people-events/legacy-heroes/green-hero-conversation-001.jpg" alt="green hero conversation 001" width="480">
